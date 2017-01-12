@@ -23,6 +23,7 @@ SPRING INITIALIZR（http://start.spring.io/）で、"Web"と"Thymeleaf"のみを
 - http://stackoverflow.com/questions/16813032/what-is-markers-in-java-logging-frameworks-and-that-is-a-reason-to-use-them
 - http://d.hatena.ne.jp/taichitaichi/20090220/1235124140
 - http://logback.qos.ch/manual/filters_ja.html
+- http://shitstorm.hatenablog.jp/entry/2015/04/03/220051
 
 ## logback-spring.xmlで設定を記述
 
